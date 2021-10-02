@@ -67,9 +67,9 @@
  -->
 </details>
 
-[website]: https://codeSTACKr.com
+<!-- [website]: https://codeSTACKr.com -->
 
-[twitter]: https://twitter.com/GokulrajArasu
+<!-- [twitter]: https://twitter.com/GokulrajArasu -->
 
-[instagram]: https://instagram.com/gokulrajpuviyarasu
-[linkedin]: https://www.linkedin.com/in/gokulrajpuviyarasu
+<!-- [instagram]: https://instagram.com/gokulrajpuviyarasu -->
+[linkedin]: https://www.linkedin.com/in/lakshmi-saravanan-584015214/
